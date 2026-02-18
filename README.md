@@ -31,7 +31,7 @@ A software engineer is a tech profession who applies engineering principles, sci
 ---
 
 
-## Key specia;isations
+## Key specialisations
 1. Frontend engineering
 2. Backend engineering
 3. Full stack engineering
