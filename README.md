@@ -1,6 +1,6 @@
 # careers-paths-in-tech
 
-A collaborative guide by [Team Member 1], [BANNY GATARI], [Team Member 3], [Team Member 4].
+A collaborative guide by AMOS KIMITI, [BANNY GATARI], [Team Member 3], [Team Member 4].
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -16,11 +16,6 @@ A collaborative guide by [Team Member 1], [BANNY GATARI], [Team Member 3], [Team
 This guide explores different career paths in the tech industry. Each section is written by a different team member and provides an overview, required skills, and resources for that role.
 
 ---
-
-## Software Engineer
-<!-- [Team Member 1 Name] will write this section -->
----
-
 ## Data Scientist
 
 ## Data Scientist
@@ -92,7 +87,25 @@ They work on projects such as forecasting trends, fraud detection, recommendatio
 5. Learn basic model deployment concepts
 ---
 
-## UX Designer
-<!-- [Team Member 3 Name] will write this section -->
+## Product Manager
+<!-- [Team Member 5 Name] -->
 
----
+**Role Overview:**  
+Product managers guide the development of products from concept to launch. They coordinate between teams, define requirements, and ensure products meet user needs.
+
+**Key Skills:**
+- Communication & leadership  
+- Market research & user feedback analysis  
+- Roadmap planning & project management  
+- Agile / Scrum methodologies  
+
+**Tools & Technologies:**
+- Jira / Trello  
+- Notion / Confluence  
+- Figma / Wireframing tools  
+
+**How to Get Started:**
+1. Learn product management basics and frameworks.  
+2. Practice creating product roadmaps and requirements.  
+3. Work on small projects to practice team coordination.  
+4. Understand agile development practices. 
