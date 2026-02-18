@@ -4,16 +4,14 @@ A collaborative guide by AMOS KIMITI, [BANNY GATARI], [Team Member 3], [Team Mem
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Software Engineer](#software-engineer)
 - [Data Scientist](#data-scientist)
-- [UX Designer](#ux-designer)
 - [DevOps Engineer](#devops-engineer)
 - [Product Manager](#product-manager)
 
 ---
 
 ## Introduction
-This guide explores different career paths in the tech industry. Each section is written by a different team member and provides an overview, required skills, and resources for that role.
+This guide explores different career paths in the tech industry. Each section is written by a different team member and provides an overview, required skills, for that role.
 
 ---
 ## Data Scientist
@@ -88,7 +86,7 @@ They work on projects such as forecasting trends, fraud detection, recommendatio
 ---
 
 ## Product Manager
-<!-- [Team Member 5 Name] -->
+<!-- AMOS KIMITI -->
 
 **Role Overview:**  
 Product managers guide the development of products from concept to launch. They coordinate between teams, define requirements, and ensure products meet user needs.
