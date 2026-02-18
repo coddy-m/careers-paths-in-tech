@@ -17,7 +17,8 @@ This guide explores different career paths in the tech industry. Each section is
 
 ---
 
-## Software Engineer
+## Software Engineer 
+### Software engineer
 
 **Overview**
 
