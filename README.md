@@ -4,7 +4,6 @@ A collaborative guide by AMOS KIMITI, [BANNY GATARI], [Team Member 3], [Team Mem
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Data Scientist](#data-scientist)
 - [DevOps Engineer](#devops-engineer)
 - [Product Manager](#product-manager)
 
