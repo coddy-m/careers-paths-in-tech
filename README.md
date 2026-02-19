@@ -161,27 +161,39 @@ They work on projects such as forecasting trends, fraud detection, recommendatio
 ---
 
 ## Product Manager
-<!-- AMOS KIMITI -->
-
+<!-- Amos Kimiti-->
 **Role Overview:**  
-Product managers guide the development of products from concept to launch. They coordinate between teams, define requirements, and ensure products meet user needs.
+A Product Manager (PM) is responsible for defining the vision and direction of a product. They act as a bridge between engineering, design, and business teams to ensure the product solves real user problems and meets business goals.
 
-**Key Skills:**
-- Communication & leadership  
-- Market research & user feedback analysis  
-- Roadmap planning & project management  
-- Agile / Scrum methodologies  
+**Key Responsibilities:**
+- Define product vision, goals, and roadmap  
+- Gather and prioritize requirements based on user and business needs  
+- Collaborate with software engineers, designers, and stakeholders  
+- Track progress and ensure timely delivery of features  
 
-**Tools & Technologies:**
-- Jira / Trello  
-- Notion / Confluence  
-- Figma / Wireframing tools  
+**Essential Skills:**
+- Strong communication and leadership skills  
+- Problem-solving and decision-making  
+- User research and data analysis  
+- Knowledge of Agile and Scrum methodologies  
+
+**Common Tools:**
+- Jira, Trello, or Asana for task tracking  
+- Notion or Confluence for documentation  
+- Figma for reviewing designs and prototypes  
+- Google Analytics for tracking user behavior  
 
 **How to Get Started:**
-1. Learn product management basics and frameworks.  
-2. Practice creating product roadmaps and requirements.  
-3. Work on small projects to practice team coordination.  
-4. Understand agile development practices. 
+1. Learn product management fundamentals and frameworks.  
+2. Practice writing product requirements and user stories.  
+3. Work on small projects to understand cross-team collaboration.  
+4. Study Agile development and Scrum processes.  
+
+**Free Learning Resources:**
+- https://www.productschool.com/blog  
+- https://www.mindtheproduct.com/  
+- https://www.scrumguides.org/  
+ 
 
 ## Resources
 
