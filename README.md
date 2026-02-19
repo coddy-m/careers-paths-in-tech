@@ -1,9 +1,10 @@
-# careers-paths-in-tech
+# Careers-paths-in-tech
 
-A collaborative guide by AMOS KIMITI, [BANNY GATARI], [Team Member 3], [Team Member 4].
+A collaborative guide by AMOS KIMITI, BANNY GATARI, [Team Member 3].
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Software Engineer](#software-engineer)
 - [Data Scientist](#data-scientist)
 - [Product Manager](#product-manager)
 
