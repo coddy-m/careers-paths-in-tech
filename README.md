@@ -182,3 +182,13 @@ Product managers guide the development of products from concept to launch. They 
 2. Practice creating product roadmaps and requirements.  
 3. Work on small projects to practice team coordination.  
 4. Understand agile development practices. 
+
+## Resources
+
+- MDN Web Docs – https://developer.mozilla.org/
+- freeCodeCamp – https://www.freecodecamp.org/
+- CS50 (Harvard) – https://cs50.harvard.edu/
+- Kaggle – https://www.kaggle.com/
+- GitHub Docs – https://docs.github.com/
+- Roadmap.sh – https://roadmap.sh/
+
