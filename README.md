@@ -87,10 +87,12 @@ A software engineer is a tech profession who applies engineering principles, sci
 - Game developer
 - Block chain developer
 
+### Salary Ranges
+- **Junior Software Engineer**: $75,000 - $105,000
+- **Mid-Level Software Engineer**: $105,000 - $155,000
+- **Senior Software Engineer**: $155,000 - $220,000+
 
-
-
-## Data Scientist
+---
 
 ## Data Scientist
 
@@ -159,9 +161,13 @@ They work on projects such as forecasting trends, fraud detection, recommendatio
 3. Practice with real datasets (e.g., Kaggle)
 4. Build portfolio projects and host them on GitHub
 5. Learn basic model deployment concepts
----
 
-## Product Manager
+### Salary Ranges
+- **Junior Data Scientist**: $85,000 - $115,000
+- **Mid-Level Data Scientist**: $115,000 - $155,000
+- **Senior Data Scientist**: $155,000 - $210,000+
+
+---
 <!-- Amos Kimiti-->
 **Role Overview:**  
 A Product Manager (PM) is responsible for defining the vision and direction of a product. They act as a bridge between engineering, design, and business teams to ensure the product solves real user problems and meets business goals.
@@ -189,6 +195,11 @@ A Product Manager (PM) is responsible for defining the vision and direction of a
 2. Practice writing product requirements and user stories.  
 3. Work on small projects to understand cross-team collaboration.  
 4. Study Agile development and Scrum processes.  
+
+### Salary Ranges
+- **Junior Product Manager**: $95,000 - $125,000
+- **Mid-Level Product Manager**: $125,000 - $170,000
+- **Senior Product Manager**: $170,000 - $240,000+
 
 **Free Learning Resources:**
 - https://www.productschool.com/blog  
