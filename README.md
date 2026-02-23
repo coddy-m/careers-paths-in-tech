@@ -1,6 +1,6 @@
 # Careers-paths-in-tech
 
-A collaborative guide by AMOS KIMITI, BANNY GATARI, [Team Member 3].
+A collaborative guide by AMOS KIMITI, BANNY GATARI, MICHELL
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@ A collaborative guide by AMOS KIMITI, BANNY GATARI, [Team Member 3].
 This guide explores different career paths in the tech industry. Each section is written by a different team member and provides an overview, required skills, for that role.
 
 ---
-
+<!-- Michell -->
 ## Software Engineer 
 ### Software engineer
 
@@ -217,6 +217,7 @@ A Product Manager (PM) is responsible for defining the vision and direction of a
 - Roadmap.sh – https://roadmap.sh/
 
 ## UX DESIGNER
+<!--Michell -->
   Overview
 
   A user experience (UX) designer acts as the architect of digital product, focusing on how a user feels and interacts with a website app or system
