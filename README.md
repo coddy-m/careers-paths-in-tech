@@ -216,3 +216,50 @@ A Product Manager (PM) is responsible for defining the vision and direction of a
 - GitHub Docs – https://docs.github.com/
 - Roadmap.sh – https://roadmap.sh/
 
+## UX DESIGNER
+  Overview
+
+  A user experience (UX) designer acts as the architect of digital product, focusing on how a user feels and interacts with a website app or system
+---
+
+  ### Core responsibility
+  - User research & empathy
+  - Information architecture
+  - Wireframing & prototyping
+  - Usability testing
+  - Design-to-Dev handoff
+  - Accesibility
+  ---
+
+  ### Technical skills
+  1. Interaction logic & state management
+  2. Design tokens & variables
+  3. AI prompt engineering for design
+  4. User analysis & behavioral data
+  5. API & data structure awareness
+  6. Advanced accessibility
+--- 
+
+### Soft skills
+* Radial empathy
+* Articulation and story telling
+* Critical thinking & problem Framing
+* Collaborative humility
+* Adaptivity and curiosity
+* Facilitation & workshop leadership
+----
+
+### Tools
+- Figma , Framer , Adobe XD
+- Maze ,UserTesting, Optimal workshop
+- Miro, Figjam
+- Hotjar , Google analytics
+- Notion, storybook , zeroheight
+---
+
+### How to get started
+- Design & prototyping (''the workhorses'' )
+- Research & testing (the ''brains'')
+- Whiteboarding & strategy (the ''discovery'')
+- Analysis & post-launch(the ''proof'')
+- Documentation & handoff(''the bridge'')
