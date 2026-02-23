@@ -1,6 +1,6 @@
 # Careers-paths-in-tech
 
-A collaborative guide by AMOS KIMITI, BANNY GATARI, MICHELL
+A collaborative guide by AMOS KIMITI, BANNY GATARI, MICHELLE
 
 ## Table of Contents
 - [Introduction](#introduction)
